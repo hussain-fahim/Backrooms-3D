@@ -1,0 +1,7 @@
+# Core Game Dependencies
+pygame==2.6.1
+
+# Core Python Libraries (built-in, no need to install)
+# math
+# sys
+# random
